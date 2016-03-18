@@ -1,0 +1,11 @@
+* Linux PS command simplest implementation
+ * Created by Muhammad Ilyas email: m_Ilyas@outlook.com
+
+ *******************************************************************************
+ * In order to use this command you have to given an argument in proper format
+ * Process ID -> ./myps \n
+ * Process Name -> ./myps -p PID
+ * Process State -> ./myps -p PID -s
+ * Process VM Size -> ./myps -p PID -v
+ * Process CMDLine -> ./myps -p PID -c
+ * All -> ./myps -p PID -s -v -c
